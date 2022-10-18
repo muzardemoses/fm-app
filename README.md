@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Capture-Fylo-landing-page.jpg)
+![](./src/Capture-Fylo-landing-page.jpg)
 
 
 
